@@ -1,4 +1,4 @@
 # Astrodynamics-Code
-- MATLAB/Octave tools for solving astrodynamics problems 
-- Read Info & Setup Instructions document for instructions on how to prepare the code for use
-- Additional scripts and projects will be added in the future and an updated version of the Info & Setup document will be uploaded to reflect any changes to the repository
+- This repository contains MATLAB/Octave tools for solving astrodynamics problems as well as scripts for several projects incorporating these tools 
+- Read Info & Setup Instructions document for instructions on how to prepare and use this body of code
+- Additional projects will be added in the future and the Info & Setup document will be updated to reflect any changes
